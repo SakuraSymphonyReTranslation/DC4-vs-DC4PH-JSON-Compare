@@ -9,7 +9,7 @@
 
   <br>
 
-  **Aplikasi desktop GUI canggih berbasis PyQt6 untuk membandingkan (*side-by-side comparison*), menyelaraskan (*synchronize*), dan menyunting naskah terjemahan JSON antara D.C.4 ~Da Capo 4~ (All-Age) dan D.C.4 Plus Harmony (18+) secara instan dan aman.**
+  **Aplikasi desktop GUI canggih berbasis PyQt6 untuk membandingkan (*side-by-side comparison*), menyelaraskan (*synchronize*), dan menyunting naskah terjemahan JSON antara D.C.4 Da Capo 4 (All-Age) dan D.C.4 Plus Harmony (18+) secara instan dan aman.**
 
 </div>
 
